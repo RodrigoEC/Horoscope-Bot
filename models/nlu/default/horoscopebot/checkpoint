@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/rodrigo/Documentos/CC/Projeto/Horoscope-Bot/./models/nlu/default/horoscopebot/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/rodrigo/Documentos/CC/Projeto/Horoscope-Bot/./models/nlu/default/horoscopebot/intent_classifier_tensorflow_embedding.ckpt"
