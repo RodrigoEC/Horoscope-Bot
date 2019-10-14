@@ -39,10 +39,10 @@ class SubscribeUser(Action):
         subscribe = tracker.get_slot("subscribe")
 
         if subscribe == "True":
-            response = "You1re successfully subscribed"   
+            response = "You're successfully subscribed"   
 
         else: 
-            response = "You1re sucessfully unsubscribed"
+            response = "You're sucessfully unsubscribed"
 
         #Method that send the response back to the user
         dispatcher.utter_message(response)
